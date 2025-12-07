@@ -1,3 +1,3 @@
 # java Class work 
 
-here contail all worm up code which are help build logic and clear concept of java programming
+here contain all worm up code which are help to build logic and clear concept of java programming
