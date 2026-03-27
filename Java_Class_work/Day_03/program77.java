@@ -1,0 +1,35 @@
+import java.util.*;
+
+class Number
+{
+    public void DisplayFactors(int iNo)
+    {
+        int i = 0;
+        for(i = 1; i <= iNo/2; i++)
+        {
+            if((iNo % i) == 0)
+            {
+                System.out.println(i);
+            }
+        }
+    }
+}   // End of Number class
+
+class program77
+{
+    public static void main(String A[])
+    {
+        int iValue = 0;
+        
+
+        System.out.println("Enter number :");
+
+        Scanner sobj = new Scanner(System.in); 
+        iValue = sobj.nextInt();
+
+        Number nobj = new Number();
+        nobj.DisplayFactors(iValue);
+
+        sobj.close();
+    }
+}
