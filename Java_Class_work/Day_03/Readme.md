@@ -3,7 +3,7 @@
 Solve problems on Number 
   
  
-## Author
+## Author 
 
 ### Name : Vivek Bhauraj Gautam
 ### Email : Vivekbgautam@gmail.com
