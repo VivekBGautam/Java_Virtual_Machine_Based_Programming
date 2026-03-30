@@ -7,5 +7,5 @@ Solve problems on Number
 
 ### Name : Vivek Bhauraj Gautam  
 ### Email : Vivekbgautam@gmail.com
-### Github : https://github.com/vivebgautam
+### Github : https://github.com/vivebgautam 
 ### LinkedIN : https://www.linkedin.com/in/vivek-b-gautam/
