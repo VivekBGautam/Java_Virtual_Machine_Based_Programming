@@ -2,7 +2,6 @@
 
 Solve problems on Number 
   
-  
 ## Author 
 
 ### Name : Vivek Bhauraj Gautam   
