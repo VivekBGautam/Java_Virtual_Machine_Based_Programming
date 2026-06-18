@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 ////////////////////////////////////////////////////////////////////////
 //  
-//  Function Name   :   Accept
+//  Function Name   :   Accept 
 //  Description     :   Used to display number of * after taking input from user
 //  Input           :   Integer
 //  output          :   Symbol
