@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////
 //
 //  Class Name      :   Demo 
-//  Function Name   :   Divide
+//  Function Name   :   Divide 
 //  Description     :   Used to perform Division of two number
 //  Input           :   Integer, Integer
 //  Output          :   Integer
