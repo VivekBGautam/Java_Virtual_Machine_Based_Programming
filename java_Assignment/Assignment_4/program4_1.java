@@ -1,4 +1,4 @@
-// write a program which accept the number froam user and Dispaly tha multiplication of factor of that number  
+// write a program which accept the number froam user and Dispaly tha multiplication of factor of that number 
 
 ////////////////////////////////////////////////////////////////////////
 //
