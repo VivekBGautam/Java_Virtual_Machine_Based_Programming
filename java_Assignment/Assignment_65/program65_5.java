@@ -1,7 +1,7 @@
 // 5. Write a program which accept one number from user and on its first 4
 // bits. Return modified number. 
 
-import java.util.*;
+import java.util.*; 
 
 class CheckBit
 {
