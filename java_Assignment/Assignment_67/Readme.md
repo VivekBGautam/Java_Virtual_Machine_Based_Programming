@@ -1,5 +1,5 @@
 1. Write a program which accept one number from user and count number of
-ON (1) bits in it without using % and / operator.
+ON (1) bits in it without using % and / operator. 
 
 
 2. Write a program which accept two numbers from user and display position
