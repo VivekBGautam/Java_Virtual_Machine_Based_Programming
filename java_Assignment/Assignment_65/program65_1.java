@@ -1,5 +1,5 @@
 // 1.Write a program which accept one number from user and off 7th bit of that
-// number if it is on. Return modified number.
+// number if it is on. Return modified number. 
 
 import java.util.*; 
 
