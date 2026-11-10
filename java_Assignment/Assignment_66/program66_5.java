@@ -2,7 +2,7 @@
 // of first and last nibble of the number. Return modified number. (Nibble is a
 // group of four bits)
 
-import java.util.*;
+import java.util.*; 
 
 class CheckBit
 {
