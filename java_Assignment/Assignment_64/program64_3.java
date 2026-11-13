@@ -4,7 +4,7 @@
 
 import java.util.*; 
 
-class CheckBit
+class CheckBit 
 {
     void ChkBit(int iNo,int iPos1,int iPos2,int iPos3,int iPos4)
     {
