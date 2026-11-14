@@ -2,7 +2,7 @@
 // OFF. First bit means bit number 1 and last bit means bit number 32.
 
 
-import java.util.*;
+import java.util.*; 
 
 class CheckBit
 {
