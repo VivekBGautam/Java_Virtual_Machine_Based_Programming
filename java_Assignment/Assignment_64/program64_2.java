@@ -1,6 +1,6 @@
 // 2. Write a program which checks whether 5th & 18th bit is On or OFF.
 
-import java.util.*;
+import java.util.*; 
 
 class CheckBit
 {
