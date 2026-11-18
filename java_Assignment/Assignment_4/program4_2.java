@@ -1,4 +1,4 @@
-// write a program which accept the number from user and Dispaly Non factor of that number in reverse order
+// write a program which accept the number from user and Dispaly Non factor of that number in reverse order 
 
 ////////////////////////////////////////////////////////////////////////
 //
