@@ -3,7 +3,7 @@
 
 import java.util.*; 
 
-class CheckBit
+class CheckBit 
 {
     int ChkBit(int iNo,int iPos)
     {
