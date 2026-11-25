@@ -1,4 +1,4 @@
-// write a program which accept the number froam user and Dispaly Summetion of  Non factor of that Number
+// write a program which accept the number froam user and Dispaly Summetion of  Non factor of that Number 
 
 ////////////////////////////////////////////////////////////////////////
 //
